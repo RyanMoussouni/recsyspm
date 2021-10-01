@@ -14,4 +14,4 @@ You can find the recommender systems source code in the rec_syst directory. Anot
 
 ## Recommendation
 
-The notebook notebook.ipynb provides an exploratory data analysis of the extracted features. and showcases the results of the various recommender systems.
+The notebook notebook.ipynb provides an exploratory data analysis of the extracted features and showcases the results of the various recommender systems.

@@ -17,7 +17,7 @@ You can find the recommender systems source code in the rec_syst directory. Anot
 The notebook notebook.ipynb provides an exploratory data analysis of the extracted features and showcases the results of the various recommender systems.
 
 
-Some figures from the notebook (please download notebook.hmtl and display it in your browser).
+Some figures from the notebook (please download notebook.html and display it in your browser).
 
 ## Exploratory Data Analysis
 
@@ -26,6 +26,6 @@ Some figures from the notebook (please download notebook.hmtl and display it in 
 
 ## Feature selection
 ### Chi square test the extracted features
-
+P-values from the chi-square test on the extracted features.
 <img width="387" alt="image" src="https://user-images.githubusercontent.com/43774265/140817505-20838b56-a826-4f78-9a17-a128d0885752.png">
 

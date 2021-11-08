@@ -19,7 +19,7 @@ The notebook notebook.ipynb provides an exploratory data analysis of the extract
 
 ## Exploratory Data Analysis
 
-### Pair plot of the extracted features 
+### Pair plot of some of the extracted features 
 ![image](https://user-images.githubusercontent.com/43774265/140790003-18abed94-d4fb-4324-8bc3-eb5e066c2054.png)
 
 ### 

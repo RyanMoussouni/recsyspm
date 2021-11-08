@@ -27,5 +27,6 @@ Some figures from the notebook (please download notebook.html and display it in 
 ## Feature selection
 ### Chi square test the extracted features
 P-values from the chi-square test on the extracted features.
+
 <img width="387" alt="image" src="https://user-images.githubusercontent.com/43774265/140817505-20838b56-a826-4f78-9a17-a128d0885752.png">
 

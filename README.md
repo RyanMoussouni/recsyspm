@@ -10,7 +10,7 @@ MovieLens : https://grouplens.org/datasets/movielens/
 
 ## Code explaination
 
-You can find the recommender systems source code in the rec_syst directory. Another student applied pattern mining techniques whose source code is in the pattern_mining directory. The original data set from MovieLens is first preprocessed, using SQL requests provided by the pandas library of Python. Then, a bipartite graph is built using a sparse matrix. This graph will be useful to try to explain the recommendations of the recommender system. Features (which can be customized) are also extracted from the data, to build a feature matrix that will be fed to several binary classifiers to make the recommendation.
+You can find the recommender systems source code in the rec_syst directory. Another student applied pattern mining techniques whose source code is in the pattern_mining directory. The original data set from MovieLens is first preprocessed, using SQL queries provided by the pandas library of Python. Then, a bipartite graph is built using a sparse matrix. This graph will be useful to try to explain the recommendations of the recommender system. Features (which can be customized) are also extracted from the data, to build a feature matrix that will be fed to several binary classifiers to make the recommendation.
 
 ## Recommendation
 
